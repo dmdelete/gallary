@@ -1139,7 +1139,7 @@ section {
 }
 
 .selectArea.type_02 .selectArea_accordion .selectArea_accordion_title div:after {
-    content: "¡å";
+    content: "â–¼";
     color: white;
     display: block;
     position: absolute;
@@ -1160,7 +1160,7 @@ section {
 }
 
 .selectArea.type_02 .selectArea_accordion._opened .selectArea_accordion_title div:after {
-    content: "¡ã";
+    content: "â–²";
     color: #fffb84
 }
 
