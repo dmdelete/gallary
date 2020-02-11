@@ -93,7 +93,7 @@
                 httpObj.send(null);
             }
             if (flashPlayerVersion != "" && aa != "2" && pexFlag != 1 && native_app_flg != "1" && chrome_app_flg != "1" && andapp_flg != "1") {
-                var retUrl = "episode.swf";
+                var retUrl = "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fcampaign%2Fshow_flash_idol_comment%2F5%3Fl_frm%3DCampaign_check_idol_comment_1%26rnd%3D549647514%26opensocial_app_id%3D12008305%26opensocial_viewer_id%3D146653956%26opensocial_owner_id%3D146653956%26flashParam%3D365102703%26l_frm%3DSmart_phone_flash_convert_1%26rnd%3D657165047";
                 location.href = retUrl;
                 return;
             }
@@ -317,6 +317,7 @@
 </head>
 
 <body style="height:100%">
+    <div id="container"></div>
     <div id="mbga-pf-footer">
         <script type="text/javascript" charset="UTF-8">
             (function() {
