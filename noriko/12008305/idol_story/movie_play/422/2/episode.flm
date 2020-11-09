@@ -1,0 +1,3887 @@
+movie 'E:\Github\gallery\noriko\12008305\idol_story\movie_play\422\2\episode.swf' // flash 4, total frames: 111, frame rate: 12 fps, 240x280 px
+
+  frame 0
+    push 'url'
+    push 'https://dmdelete.github.io/gallery/noriko/'
+    setVariable
+    push 'voice_path1'
+    push '../../../../../sound/9900983/8b946bcff4ee50b19afd9ea0bd376d48.mp4'
+    setVariable
+    push 'voice_path2'
+    push '../../../../../sound/9900983/0ea8a25b2f2cc64682fc401597ca7b03.mp4'
+    setVariable
+    push 'voice_path3'
+    push '../../../../../sound/9900983/352246eada0e3e2ec1efe4e8ac4875c4.mp4'
+    setVariable
+    push 'voice_path4'
+    push '../../../../../sound/9900983/9f83c377c46485540a21c6e68ee6b363.mp4'
+    setVariable
+    push 'voice_path5'
+    push '../../../../../sound/9900983/ea18260220afb0c660d74079979180fd.mp4'
+    setVariable
+    push 'voice_path6'
+    push '../../../../../sound/9900983/dac25dc6cdf85a1709af73916ded0f99.mp4'
+    setVariable
+    push 'voice_path7'
+    push '../../../../../sound/9900983/9e11ed9a0ed6038c7d8f3c07dea39735.mp4'
+    setVariable
+    push 'text_1_1'
+    push 'ふんふふーん♪今日もいっぱい買っ'
+    setVariable
+    push 'text_1_2'
+    push 'ちゃった～♪ﾚｯｽﾝ前のﾘﾗｯｸｽﾄﾞｰﾅﾂと'
+    setVariable
+    push 'text_1_3'
+    push '～､休憩中のﾘﾌﾚｯｼｭﾄﾞｰﾅﾂと～……追'
+    setVariable
+    push 'text_1_4'
+    push 'いﾄﾞｰﾅﾂ!'
+    setVariable
+    push 'text_2_1'
+    push 'あ､ﾌﾟﾛﾃﾞｭｰｻｰ､お疲れさまーっ! 聞'
+    setVariable
+    push 'text_2_2'
+    push 'いて聞いてっ! 今日からﾄﾞｰﾅﾂ半額ｾ'
+    setVariable
+    push 'text_2_3'
+    push 'ｰﾙやってるの! お客さんの行列すご'
+    setVariable
+    push 'text_2_4'
+    push 'かったよ～!'
+    setVariable
+    push 'text_3_1'
+    push 'ﾌﾟﾛﾃﾞｭｰｻｰ､ずっとお仕事してて買い'
+    setVariable
+    push 'text_3_2'
+    push 'に行けないでしょ? だから､いっぱ'
+    setVariable
+    push 'text_3_3'
+    push 'い買ってきたんだっ♪さっそく食べ'
+    setVariable
+    push 'text_3_4'
+    push 'よっか!'
+    setVariable
+    push 'text_4_1'
+    push '……ん? なになに? あたしになにか'
+    setVariable
+    push 'text_4_2'
+    push '用だった? ……え､泊りがけのお仕'
+    setVariable
+    push 'text_4_3'
+    push '事? わぁ､温泉もあるのっ? すごい'
+    setVariable
+    push 'text_4_4'
+    push 'すごーい!'
+    setVariable
+    push 'text_5_1'
+    push 'あっ! そしたら､この前買ったﾊﾞｽﾀｵ'
+    setVariable
+    push 'text_5_2'
+    push 'ﾙ､持っていこーっと! あのね､可愛'
+    setVariable
+    push 'text_5_3'
+    push 'いﾊﾞｽﾀｵﾙを見つけたの! 写真撮って'
+    setVariable
+    push 'text_5_4'
+    push 'あるよ! 見る?'
+    setVariable
+    push 'text_6_1'
+    push 'ｽﾄﾛﾍﾞﾘｰﾌﾚｰﾊﾞｰのﾄﾞｰﾅﾂに､ｶﾗｰﾁｮｺｽﾌﾟ'
+    setVariable
+    push 'text_6_2'
+    push 'ﾚｰを振りかけた感じで……あ､さっ'
+    setVariable
+    push 'text_6_3'
+    push 'き買ったなかに､似たﾄﾞｰﾅﾂがあった'
+    setVariable
+    push 'text_6_4'
+    push 'かもっ!'
+    setVariable
+    push 'text_7_1'
+    push 'そうだ! 食べながら詳しいお話しし'
+    setVariable
+    push 'text_7_2'
+    push 'ようよっ! 今ならﾄﾞｰﾅﾂたっくさん'
+    setVariable
+    push 'text_7_3'
+    push 'あるし､ﾌﾟﾛﾃﾞｭｰｻｰにもﾘﾌﾚｯｼｭﾄﾞｰﾅﾂ'
+    setVariable
+    push 'text_7_4'
+    push 'してほしいな♪'
+    setVariable
+    push 'iosFlg'
+    push '1'
+    setVariable
+    push 'name1'
+    push '法子'
+    setVariable
+    push 'cno1'
+    push '1'
+    setVariable
+    push 'pos1'
+    push 'C'
+    setVariable
+    push 'mov1'
+    push 'in_R'
+    setVariable
+    push 'msg1'
+    push 'ふんふふーん♪今日もいっぱい\n買っちゃった～♪ﾚｯｽﾝ前のﾘﾗｯｸ\nｽﾄﾞｰﾅﾂと～､休憩中のﾘﾌﾚｯｼｭ\nﾄﾞｰﾅﾂと～……追いﾄﾞｰﾅﾂ!'
+    setVariable
+    push '_br1'
+    push '1'
+    setVariable
+    push 'bgimg1'
+    push '00001'
+    setVariable
+    push 'fce1'
+    push '2'
+    setVariable
+    push 'cno2'
+    push '1'
+    setVariable
+    push 'pos2'
+    push 'C'
+    setVariable
+    push 'mov2'
+    push 'nod'
+    setVariable
+    push 'msg2'
+    push 'あ､ﾌﾟﾛﾃﾞｭｰｻｰ､お疲れさまーっ! \n聞いて聞いてっ! 今日からﾄﾞｰﾅﾂ\n半額ｾｰﾙやってるの! お客さん\nの行列すごかったよ～!'
+    setVariable
+    push '_br2'
+    push '1'
+    setVariable
+    push 'fce2'
+    push '1'
+    setVariable
+    push 'chara_effect2'
+    push '1'
+    setVariable
+    push 'effect_dir2'
+    push 'L'
+    setVariable
+    push 'cno3'
+    push '1'
+    setVariable
+    push 'pos3'
+    push 'C'
+    setVariable
+    push 'mov3'
+    push 'pop'
+    setVariable
+    push 'msg3'
+    push 'ﾌﾟﾛﾃﾞｭｰｻｰ､ずっとお仕事してて\n買いに行けないでしょ? だから､\nいっぱい買ってきたんだっ♪\nさっそく食べよっか!'
+    setVariable
+    push '_br3'
+    push '1'
+    setVariable
+    push 'fce3'
+    push '2'
+    setVariable
+    push 'chara_effect3'
+    push '2'
+    setVariable
+    push 'effect_dir3'
+    push 'L'
+    setVariable
+    push 'cno4'
+    push '1'
+    setVariable
+    push 'pos4'
+    push 'C'
+    setVariable
+    push 'mov4'
+    push 'question_left2'
+    setVariable
+    push 'msg4'
+    push '……ん? なになに? あたしにな\nにか用だった? ……え､泊りが\nけのお仕事? わぁ､温泉もある\nのっ? すごいすごーい!'
+    setVariable
+    push '_br4'
+    push '1'
+    setVariable
+    push 'fce4'
+    push '8'
+    setVariable
+    push 'cno5'
+    push '1'
+    setVariable
+    push 'pos5'
+    push 'C'
+    setVariable
+    push 'mov5'
+    push 'pop'
+    setVariable
+    push 'msg5'
+    push 'あっ! そしたら､この前買ったﾊﾞ\nｽﾀｵﾙ､持っていこーっと! あの\nね､可愛いﾊﾞｽﾀｵﾙを見つけたの! \n写真撮ってあるよ! 見る?'
+    setVariable
+    push '_br5'
+    push '1'
+    setVariable
+    push 'fce5'
+    push '1'
+    setVariable
+    push 'chara_effect5'
+    push '1'
+    setVariable
+    push 'effect_dir5'
+    push 'L'
+    setVariable
+    push 'cno6'
+    push '1'
+    setVariable
+    push 'pos6'
+    push 'C'
+    setVariable
+    push 'mov6'
+    push 'swing'
+    setVariable
+    push 'msg6'
+    push 'ｽﾄﾛﾍﾞﾘｰﾌﾚｰﾊﾞｰのﾄﾞｰﾅﾂに､ｶﾗｰﾁｮ\nｺｽﾌﾟﾚｰを振りかけた感じで……\nあ､さっき買ったなかに､似た\nﾄﾞｰﾅﾂがあったかもっ!'
+    setVariable
+    push '_br6'
+    push '1'
+    setVariable
+    push 'fce6'
+    push '2'
+    setVariable
+    push 'cno7'
+    push '1'
+    setVariable
+    push 'pos7'
+    push 'C'
+    setVariable
+    push 'mov7'
+    push 'nod'
+    setVariable
+    push 'msg7'
+    push 'そうだ! 食べながら詳しいお話\nししようよっ! 今ならﾄﾞｰﾅﾂたっ\nくさんあるし､ﾌﾟﾛﾃﾞｭｰｻｰにも\nﾘﾌﾚｯｼｭﾄﾞｰﾅﾂしてほしいな♪'
+    setVariable
+    push '_br7'
+    push '1'
+    setVariable
+    push 'fce7'
+    push '5'
+    setVariable
+    push 'chara_effect7'
+    push '2'
+    setVariable
+    push 'effect_dir7'
+    push 'L'
+    setVariable
+    push 'cpt_end'
+    push '7'
+    setVariable
+    push 'place_name'
+    push '事務所'
+    setVariable
+    push 'event_type'
+    push '3'
+    setVariable
+    push 'voice_flag'
+    push '1'
+    setVariable
+    push 'allskip_flag'
+    push '0'
+    setVariable
+    push 'iosFlg'
+    push '1'
+    setVariable
+    push 'medium'
+    push 'SetQuality'
+    push '2'
+    FSCommand2
+    pop
+    push ''
+    push '17'
+    push '0'
+    setProperty
+    push 'position1'
+    push 'LL'
+    setVariable
+    push 'position2'
+    push 'L'
+    setVariable
+    push 'position3'
+    push 'CL'
+    setVariable
+    push 'position4'
+    push 'C'
+    setVariable
+    push 'position5'
+    push 'CR'
+    setVariable
+    push 'position6'
+    push 'R'
+    setVariable
+    push 'position7'
+    push 'RR'
+    setVariable
+    push 'position_len'
+    push '7'
+    setVariable
+    push 'LX'
+    push '60'
+    setVariable
+    push 'RX'
+    push '180'
+    setVariable
+    push 'CX'
+    push '120'
+    setVariable
+    push 'LLX'
+    push '45'
+    setVariable
+    push 'RRX'
+    push '195'
+    setVariable
+    push 'CLX'
+    push '90'
+    setVariable
+    push 'CRX'
+    push '150'
+    setVariable
+    push 'cpt'
+    push '0'
+    setVariable
+    push 'MAXNUM'
+    push '20'
+    setVariable
+    push 'key_flag'
+    push '0'
+    setVariable
+    push 'skip_flag'
+    push '0'
+    setVariable
+    push 'win_open'
+    push '0'
+    setVariable
+    push 'window_flag'
+    push '1'
+    setVariable
+    push 'key_act_flag'
+    push '1'
+    setVariable
+    push 'fin_flag'
+    push '0'
+    setVariable
+    push 'bg_condition'
+    push '1'
+    setVariable
+    push 'timer_active_flag'
+    push '0'
+    setVariable
+    push 'voice_count'
+    push '1'
+    setVariable
+    push 'move_wait_flag'
+    push '0'
+    setVariable
+    push 'window_width'
+    push '1'
+    setVariable
+    push 'condition_init'
+    callFrame
+    push 'i'
+    push '1'
+    setVariable
+   label1:
+    push 'i'
+    getVariable
+    push 'MAXNUM'
+    getVariable
+    push '1'
+    oldAdd
+    oldLessThan
+    not
+    branchIfTrue label9
+    push 'ln'
+    push 'name'
+    push 'i'
+    getVariable
+    concat
+    getVariable
+    stringLength
+    setVariable
+    push '1'
+    push 'ln'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label2
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '/c_col/c'
+    concat
+    setTargetExpr
+      push '/:i'
+      getVariable
+      gotoAndStop
+    end
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '/c_col/:dark'
+    concat
+    gotoAndStop
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '_t/c_col/c'
+    concat
+    setTargetExpr
+      push '/:i'
+      getVariable
+      gotoAndStop
+    end
+    push 'hdiff'
+    push 'i'
+    getVariable
+    concat
+    getVariable
+    push ''
+    stringEq
+    not
+    not
+    branchIfTrue label2
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '_t'
+    concat
+    push '1'
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '_t'
+    concat
+    push '1'
+    getProperty
+    push 'hdiff'
+    push 'i'
+    getVariable
+    concat
+    getVariable
+    subtract
+    setProperty
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '1'
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '1'
+    getProperty
+    push 'hdiff'
+    push 'i'
+    getVariable
+    concat
+    getVariable
+    subtract
+    setProperty
+   label2:
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '7'
+    push '0'
+    setProperty
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '_t'
+    concat
+    push '7'
+    push '0'
+    setProperty
+    push 'cf'
+    push 'i'
+    getVariable
+    concat
+    push '/'
+    concat
+    push 'ef_position'
+    concat
+    push '0'
+    getProperty
+    push ''
+    stringEq
+    not
+    not
+    branchIfTrue label3
+    push 'ch'
+    push 'i'
+    getVariable
+    concat
+    push '_efposition_x'
+    concat
+    push 'cf'
+    push 'i'
+    getVariable
+    concat
+    push '/'
+    concat
+    push 'ef_position'
+    concat
+    push '0'
+    getProperty
+    setVariable
+    branch label4
+   label3:
+    push 'ch'
+    push 'i'
+    getVariable
+    concat
+    push '_efposition_x'
+    concat
+    push '0'
+    setVariable
+   label4:
+    push 'cf'
+    push 'i'
+    getVariable
+    concat
+    push '/'
+    concat
+    push 'ef_position'
+    concat
+    push '1'
+    getProperty
+    push ''
+    stringEq
+    not
+    not
+    branchIfTrue label5
+    push 'ch'
+    push 'i'
+    getVariable
+    concat
+    push '_efposition_y'
+    concat
+    push 'cf'
+    push 'i'
+    getVariable
+    concat
+    push '/'
+    concat
+    push 'ef_position'
+    concat
+    push '1'
+    getProperty
+    push 'hdiff'
+    push 'i'
+    getVariable
+    concat
+    getVariable
+    subtract
+    push '310'
+    oldAdd
+    setVariable
+    branch label6
+   label5:
+    push 'ch'
+    push 'i'
+    getVariable
+    concat
+    push '_efposition_y'
+    concat
+    push '100'
+    push 'hdiff'
+    push 'i'
+    getVariable
+    concat
+    getVariable
+    subtract
+    setVariable
+   label6:
+    push '10'
+    push 'ln'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label7
+    push 'window_1/win_base/:3'
+    gotoAndStop
+    push 'window_width'
+    push '3'
+    setVariable
+    branch label8
+   label7:
+    push '6'
+    push 'ln'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label8
+    push 'window_width'
+    getVariable
+    push '3'
+    oldLessThan
+    not
+    branchIfTrue label8
+    push 'window_1/win_base/:2'
+    gotoAndStop
+    push 'window_width'
+    push '2'
+    setVariable
+   label8:
+    push 'i'
+    push 'i'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+    branch label1
+   label9:
+    push 'i'
+    push '1'
+    setVariable
+   label10:
+    push 'cpt_end'
+    getVariable
+    push 'i'
+    getVariable
+    oldLessThan
+    not
+    not
+    branchIfTrue label13
+    push 'ln'
+    push 'cname'
+    push 'i'
+    getVariable
+    concat
+    getVariable
+    stringLength
+    setVariable
+    push '10'
+    push 'ln'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label11
+    push 'window_1/win_base/:3'
+    gotoAndStop
+    push 'window_width'
+    push '3'
+    setVariable
+    branch label12
+   label11:
+    push '6'
+    push 'ln'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label12
+    push 'window_width'
+    getVariable
+    push '3'
+    oldLessThan
+    not
+    branchIfTrue label12
+    push 'window_1/win_base/:2'
+    gotoAndStop
+    push 'window_width'
+    push '2'
+    setVariable
+   label12:
+    push 'i'
+    push 'i'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+    branch label10
+   label13:
+  end // of frame 0
+
+  defineMovieClip 3 // total frames: 1
+  end // of defineMovieClip 3
+
+  defineMovieClip 6 // total frames: 1
+  end // of defineMovieClip 6
+
+  defineMovieClip 9 // total frames: 1
+  end // of defineMovieClip 9
+
+  defineMovieClip 12 // total frames: 1
+  end // of defineMovieClip 12
+
+  defineMovieClip 15 // total frames: 1
+  end // of defineMovieClip 15
+
+  defineMovieClip 18 // total frames: 1
+  end // of defineMovieClip 18
+
+  defineMovieClip 21 // total frames: 1
+  end // of defineMovieClip 21
+
+  defineMovieClip 23 // total frames: 1
+
+    frame 0
+      push ''
+      push '7'
+      push '0'
+      setProperty
+    end // of frame 0
+  end // of defineMovieClip 23
+
+  defineMovieClip 201 // total frames: 1
+  end // of defineMovieClip 201
+
+  defineMovieClip 217 // total frames: 12
+
+    frame 0
+      stop
+      push 'b'
+      push '7'
+      push '0'
+      setProperty
+    end // of frame 0
+  end // of defineMovieClip 217
+
+  defineMovieClip 219 // total frames: 1
+  end // of defineMovieClip 219
+
+  defineMovieClip 221 // total frames: 34
+
+    frame 0
+      push 'current_face'
+      push '1'
+      setVariable
+      push 'next_face'
+      push '1'
+      setVariable
+      push 'blink'
+      push '100'
+      setVariable
+      push 'face1_blink'
+      push '1'
+      setVariable
+      push 'face2_blink'
+      push '0'
+      setVariable
+      push 'face3_blink'
+      push '1'
+      setVariable
+      push 'face4_blink'
+      push '1'
+      setVariable
+      push 'face5_blink'
+      push '0'
+      setVariable
+      push 'face6_blink'
+      push '0'
+      setVariable
+      push 'face7_blink'
+      push '0'
+      setVariable
+      push 'face8_blink'
+      push '1'
+      setVariable
+      push 'cnt'
+      push '0'
+      setVariable
+      push 'setBlink'
+      callFrame
+      gotoLabel 'stay'
+      play
+    end // of frame 0
+
+    frame 5
+      push 'f1_alpha'
+      push '7'
+      push '0'
+      setProperty
+      push 'next_face'
+      getVariable
+      push 'current_face'
+      getVariable
+      stringEq
+      not
+      branchIfTrue label1
+      gotoLabel 'stay'
+      play
+      branch label5
+     label1:
+      push 'f1/:'
+      push 'current_face'
+      getVariable
+      concat
+      gotoAndStop
+      push 'f2/:'
+      push 'next_face'
+      getVariable
+      concat
+      gotoAndStop
+      push 'current_face'
+      getVariable
+      push '1'
+      stringEq
+      not
+      branchIfTrue label2
+      push 'f1'
+      push '7'
+      push '0'
+      setProperty
+      branch label3
+     label2:
+      push 'f1'
+      push '7'
+      push '1'
+      setProperty
+     label3:
+      push 'next_face'
+      getVariable
+      push '1'
+      stringEq
+      not
+      branchIfTrue label4
+      push 'f1'
+      push '7'
+      push '0'
+      setProperty
+      push 'f2'
+      push '7'
+      push '0'
+      setProperty
+      push 'f1_alpha'
+      push '7'
+      push '1'
+      setProperty
+      push 'f1_alpha/:'
+      push 'current_face'
+      getVariable
+      concat
+      gotoAndStop
+      branch label5
+     label4:
+      push 'f2'
+      push '7'
+      push '1'
+      setProperty
+     label5:
+    end // of frame 5
+
+    frame 7
+      gotoLabel 'stay'
+      play
+    end // of frame 7
+
+    frame 10
+      push 'current_face'
+      push 'next_face'
+      getVariable
+      setVariable
+      push 'f1/:'
+      push 'current_face'
+      getVariable
+      concat
+      gotoAndStop
+      push 'f2/:'
+      push 'next_face'
+      getVariable
+      concat
+      gotoAndStop
+      push 'f1'
+      push '7'
+      push '0'
+      setProperty
+      push 'f2'
+      push '7'
+      push '1'
+      setProperty
+      push 'face_blink'
+      push 'face'
+      push 'current_face'
+      getVariable
+      concat
+      push '_blink'
+      concat
+      getVariable
+      setVariable
+      push '0'
+      push 'face_blink'
+      getVariable
+      oldLessThan
+      not
+      branchIfTrue label1
+      play
+      branch label2
+     label1:
+      stop
+     label2:
+    end // of frame 10
+
+    frame 11
+      push '0'
+      push 'cnt'
+      getVariable
+      oldLessThan
+      not
+      branchIfTrue label1
+      push 'cnt'
+      push 'cnt'
+      getVariable
+      push '1'
+      subtract
+      setVariable
+      branch label2
+     label1:
+      push 'setBlink'
+      callFrame
+      push 'blink'
+      push 'face_blink'
+      getVariable
+      concat
+      gotoAndPlay
+     label2:
+    end // of frame 11
+
+    frame 12
+      push ''
+      push '4'
+      getProperty
+      push '1'
+      subtract
+      gotoAndPlay
+    end // of frame 12
+
+    frame 15
+      push 'f1'
+      push '7'
+      push '0'
+      setProperty
+      push 'f2'
+      push '7'
+      push '1'
+      setProperty
+      push 'mask_eyeclose/:'
+      push 'current_face'
+      getVariable
+      concat
+      gotoAndStop
+    end // of frame 15
+
+    frame 19
+      gotoLabel 'stay'
+      play
+    end // of frame 19
+
+    frame 21
+      push 'f1'
+      push '7'
+      push '0'
+      setProperty
+      push 'f2'
+      push '7'
+      push '1'
+      setProperty
+    end // of frame 21
+
+    frame 25
+      gotoLabel 'stay'
+      play
+    end // of frame 25
+
+    frame 27
+      push 'cnt'
+      push 'blink'
+      getVariable
+      random
+      setVariable
+    end // of frame 27
+  end // of defineMovieClip 221
+
+  defineMovieClip 223 // total frames: 1
+  end // of defineMovieClip 223
+
+  defineMovieClip 224 // total frames: 2
+
+    frame 0
+      push ''
+      push '7'
+      push '0'
+      setProperty
+    end // of frame 0
+
+    frame 1
+      stop
+    end // of frame 1
+  end // of defineMovieClip 224
+
+  defineMovieClip 25 // total frames: 1
+  end // of defineMovieClip 25
+
+  defineMovieClip 27 // total frames: 1
+  end // of defineMovieClip 27
+
+  defineMovieClip 29 // total frames: 1
+  end // of defineMovieClip 29
+
+  defineMovieClip 31 // total frames: 1
+  end // of defineMovieClip 31
+
+  defineMovieClip 33 // total frames: 1
+  end // of defineMovieClip 33
+
+  defineMovieClip 35 // total frames: 1
+  end // of defineMovieClip 35
+
+  defineMovieClip 36 // total frames: 1
+  end // of defineMovieClip 36
+
+  defineMovieClip 37 // total frames: 1
+  end // of defineMovieClip 37
+
+  defineMovieClip 38 // total frames: 1
+  end // of defineMovieClip 38
+
+  defineMovieClip 39 // total frames: 1
+  end // of defineMovieClip 39
+
+  defineMovieClip 40 // total frames: 1
+  end // of defineMovieClip 40
+
+  defineMovieClip 41 // total frames: 1
+  end // of defineMovieClip 41
+
+  defineMovieClip 42 // total frames: 1
+  end // of defineMovieClip 42
+
+  defineMovieClip 43 // total frames: 1
+  end // of defineMovieClip 43
+
+  defineMovieClip 44 // total frames: 1
+  end // of defineMovieClip 44
+
+  defineMovieClip 45 // total frames: 1
+  end // of defineMovieClip 45
+
+  defineMovieClip 46 // total frames: 1
+  end // of defineMovieClip 46
+
+  defineMovieClip 47 // total frames: 1
+  end // of defineMovieClip 47
+
+  defineMovieClip 48 // total frames: 1
+  end // of defineMovieClip 48
+
+  defineMovieClip 49 // total frames: 1
+  end // of defineMovieClip 49
+
+  defineMovieClip 226 // total frames: 1
+  end // of defineMovieClip 226
+
+  defineMovieClip 227 // total frames: 8
+
+    frame 0
+      play
+    end // of frame 0
+
+    frame 7
+      stop
+    end // of frame 7
+  end // of defineMovieClip 227
+
+  defineMovieClip 50 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 50
+
+  defineMovieClip 229 // total frames: 1
+  end // of defineMovieClip 229
+
+  defineMovieClip 231 // total frames: 1
+  end // of defineMovieClip 231
+
+  defineMovieClip 232 // total frames: 15
+
+    frame 14
+      stop
+    end // of frame 14
+  end // of defineMovieClip 232
+
+  defineMovieClip 51 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 51
+
+  defineMovieClip 52 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 52
+
+  defineMovieClip 53 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 53
+
+  defineMovieClip 54 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 54
+
+  defineMovieClip 55 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 55
+
+  defineMovieClip 56 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 56
+
+  defineMovieClip 57 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 57
+
+  defineMovieClip 58 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 58
+
+  defineMovieClip 59 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 59
+
+  defineMovieClip 60 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 60
+
+  defineMovieClip 61 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 61
+
+  defineMovieClip 62 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 62
+
+  defineMovieClip 63 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 63
+
+  defineMovieClip 64 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 64
+
+  defineMovieClip 65 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 65
+
+  defineMovieClip 66 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 66
+
+  defineMovieClip 67 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 67
+
+  defineMovieClip 68 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 68
+
+  defineMovieClip 69 // total frames: 7
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 69
+
+  defineMovieClip 71 // total frames: 4
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 71
+
+  defineMovieClip 72 // total frames: 65
+
+    frame 0
+      stop
+    end // of frame 0
+
+    frame 16
+      stop
+    end // of frame 16
+
+    frame 32
+      stop
+    end // of frame 32
+
+    frame 48
+      stop
+    end // of frame 48
+
+    frame 64
+      stop
+    end // of frame 64
+  end // of defineMovieClip 72
+
+  defineMovieClip 73 // total frames: 59
+
+    frame 0
+      stop
+    end // of frame 0
+
+    frame 10
+      stop
+    end // of frame 10
+
+    frame 21
+      stop
+    end // of frame 21
+
+    frame 22
+      push '/:bg_condition'
+      getVariable
+      push '1'
+      stringEq
+      not
+      branchIfTrue label1
+      push '/:bg_condition'
+      push '2'
+      setVariable
+      branch label2
+     label1:
+      push '/:bg_condition'
+      push '1'
+      setVariable
+     label2:
+    end // of frame 22
+
+    frame 25
+      push 'bg_sidemotion/bg_/:'
+      push '/:bg_condition'
+      getVariable
+      concat
+      gotoAndStop
+      push 'bg_sidemotion/:C'
+      gotoAndStop
+    end // of frame 25
+
+    frame 29
+      stop
+    end // of frame 29
+
+    frame 39
+      stop
+    end // of frame 39
+
+    frame 58
+      stop
+    end // of frame 58
+  end // of defineMovieClip 73
+
+  defineMovieClip 74 // total frames: 20
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 74
+
+  defineMovieClip 75 // total frames: 10
+
+    frame 0
+      stop
+    end // of frame 0
+
+    frame 5
+      stop
+    end // of frame 5
+  end // of defineMovieClip 75
+
+  defineMovieClip 77 // total frames: 1
+  end // of defineMovieClip 77
+
+  defineMovieClip 78 // total frames: 288
+
+    frame 0
+      stop
+    end // of frame 0
+
+    frame 1
+      stop
+    end // of frame 1
+
+    frame 7
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 7
+
+    frame 9
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 9
+
+    frame 18
+      stop
+    end // of frame 18
+
+    frame 26
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 26
+
+    frame 34
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 34
+
+    frame 43
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 43
+
+    frame 53
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 53
+
+    frame 62
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 62
+
+    frame 67
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 67
+
+    frame 73
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 73
+
+    frame 80
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 80
+
+    frame 87
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 87
+
+    frame 94
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 94
+
+    frame 101
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 101
+
+    frame 111
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 111
+
+    frame 126
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 126
+
+    frame 133
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 133
+
+    frame 148
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 148
+
+    frame 159
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 159
+
+    frame 181
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 181
+
+    frame 202
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 202
+
+    frame 223
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 223
+
+    frame 244
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 244
+
+    frame 265
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 265
+
+    frame 287
+      stop
+      push '/:move_end'
+      callFrame
+    end // of frame 287
+  end // of defineMovieClip 78
+
+  defineMovieClip 79 // total frames: 13
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 79
+
+  defineMovieClip 80 // total frames: 1
+  end // of defineMovieClip 80
+
+  defineMovieClip 82 // total frames: 1
+  end // of defineMovieClip 82
+
+  defineMovieClip 85 // total frames: 3
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 85
+
+  defineMovieClip 86 // total frames: 64
+
+    frame 0
+      stop
+    end // of frame 0
+
+    frame 9
+      gotoFrame 0
+    end // of frame 9
+
+    frame 14
+      stop
+    end // of frame 14
+
+    frame 27
+      gotoFrame 0
+    end // of frame 27
+
+    frame 35
+      stop
+    end // of frame 35
+
+    frame 46
+      stop
+    end // of frame 46
+
+    frame 63
+      stop
+    end // of frame 63
+  end // of defineMovieClip 86
+
+  defineMovieClip 89 // total frames: 1
+  end // of defineMovieClip 89
+
+  defineMovieClip 92 // total frames: 1
+  end // of defineMovieClip 92
+
+  defineMovieClip 93 // total frames: 1
+  end // of defineMovieClip 93
+
+  defineMovieClip 94 // total frames: 1
+  end // of defineMovieClip 94
+
+  defineMovieClip 97 // total frames: 3
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 97
+
+  defineMovieClip 100 // total frames: 1
+  end // of defineMovieClip 100
+
+  defineMovieClip 103 // total frames: 1
+  end // of defineMovieClip 103
+
+  defineMovieClip 105 // total frames: 1
+  end // of defineMovieClip 105
+
+  defineMovieClip 106 // total frames: 9
+
+    frame 8
+      gotoFrame 0
+      play
+    end // of frame 8
+  end // of defineMovieClip 106
+
+  defineMovieClip 108 // total frames: 1
+  end // of defineMovieClip 108
+
+  defineMovieClip 109 // total frames: 42
+
+    frame 0
+      push 'w'
+      push '40'
+      setVariable
+      push 'h'
+      push '40'
+      setVariable
+      push 'x'
+      push '220'
+      setVariable
+      push 'y'
+      push '180'
+      setVariable
+      push 'scene'
+      push 'out'
+      setVariable
+      stop
+    end // of frame 0
+
+    frame 1
+      play
+    end // of frame 1
+
+    frame 5
+      stop
+    end // of frame 5
+
+    frame 23
+      stop
+    end // of frame 23
+
+    frame 31
+      stop
+    end // of frame 31
+
+    frame 36
+      stop
+    end // of frame 36
+  end // of defineMovieClip 109
+
+  defineMovieClip 111 // total frames: 1
+  end // of defineMovieClip 111
+
+  defineMovieClip 113 // total frames: 1
+  end // of defineMovieClip 113
+
+  defineMovieClip 115 // total frames: 1
+  end // of defineMovieClip 115
+
+  defineMovieClip 116 // total frames: 32
+
+    frame 0
+      stop
+    end // of frame 0
+  end // of defineMovieClip 116
+
+  defineMovieClip 117 // total frames: 1
+  end // of defineMovieClip 117
+
+  defineMovieClip 118 // total frames: 1
+
+    frame 0
+      push '/:allskip_flag'
+      getVariable
+      push '1'
+      stringEq
+      not
+      not
+      branchIfTrue label1
+      push ''
+      push '7'
+      push '0'
+      setProperty
+     label1:
+      stop
+    end // of frame 0
+  end // of defineMovieClip 118
+
+  defineMovieClip 120 // total frames: 12
+  end // of defineMovieClip 120
+
+  defineMovieClip 122 // total frames: 1
+  end // of defineMovieClip 122
+
+  defineMovieClip 124 // total frames: 1
+  end // of defineMovieClip 124
+
+  defineMovieClip 126 // total frames: 1
+  end // of defineMovieClip 126
+
+  defineMovieClip 128 // total frames: 1
+  end // of defineMovieClip 128
+
+  defineMovieClip 130 // total frames: 1
+  end // of defineMovieClip 130
+
+  defineMovieClip 132 // total frames: 1
+  end // of defineMovieClip 132
+
+  defineMovieClip 134 // total frames: 1
+  end // of defineMovieClip 134
+
+  defineMovieClip 135 // total frames: 1
+  end // of defineMovieClip 135
+
+  defineMovieClip 136 // total frames: 17
+  end // of defineMovieClip 136
+
+  defineMovieClip 137 // total frames: 24
+
+    frame 0
+      stop
+    end // of frame 0
+
+    frame 10
+      stop
+    end // of frame 10
+
+    frame 23
+      gotoFrame 0
+    end // of frame 23
+  end // of defineMovieClip 137
+
+  defineMovieClip 140 // total frames: 1
+  end // of defineMovieClip 140
+
+  defineMovieClip 142 // total frames: 1
+
+    frame 0
+      push 'digit'
+      push '/:place_name'
+      getVariable
+      stringLength
+      setVariable
+      push ''
+      push '0'
+      push ''
+      push '0'
+      getProperty
+      push '3.5'
+      push 'digit'
+      getVariable
+      push '1'
+      subtract
+      multiply
+      subtract
+      setProperty
+    end // of frame 0
+  end // of defineMovieClip 142
+
+  defineMovieClip 143 // total frames: 15
+
+    frame 0
+      stop
+    end // of frame 0
+
+    frame 2
+      play
+    end // of frame 2
+
+    frame 7
+      stop
+      push ''
+      push '7'
+      push '0'
+      setProperty
+    end // of frame 7
+  end // of defineMovieClip 143
+
+  defineMovieClip 145 // total frames: 18
+
+    frame 0
+      push ''
+      push '7'
+      push '0'
+      setProperty
+      stop
+      push 'init'
+      callFrame
+    end // of frame 0
+
+    frame 1
+      push 'timer_count'
+      push 'timer_count'
+      getVariable
+      push '1'
+      oldAdd
+      setVariable
+      push 'timer_set'
+      getVariable
+      push 'timer_count'
+      getVariable
+      oldLessThan
+      not
+      branchIfTrue label1
+      push 'timer_stop'
+      callFrame
+     label1:
+    end // of frame 1
+
+    frame 2
+      gotoLabel 'run'
+      play
+    end // of frame 2
+
+    frame 4
+      push 'timer_count'
+      push '0'
+      setVariable
+      push 'timer_set'
+      push '0'
+      setVariable
+    end // of frame 4
+
+    frame 9
+      push '/:cptEnd'
+      gotoAndStop
+      push '/:timer_active_flag'
+      push '0'
+      setVariable
+      gotoFrame 0
+    end // of frame 9
+  end // of defineMovieClip 145
+
+  defineMovieClip 147 // total frames: 5
+
+    frame 0
+      push 'dX'
+      push '/bg'
+      push '0'
+      getProperty
+      setVariable
+      push 'dY'
+      push '/bg'
+      push '1'
+      getProperty
+      setVariable
+      push 'i'
+      push '0'
+      setVariable
+    end // of frame 0
+
+    frame 1
+      stop
+      push '/bg'
+      push '0'
+      push 'dX'
+      getVariable
+      setProperty
+      push '/bg'
+      push '1'
+      push 'dY'
+      getVariable
+      setProperty
+    end // of frame 1
+
+    frame 3
+      push 'i'
+      push 'i'
+      getVariable
+      push '1'
+      oldAdd
+      setVariable
+      push '/bg'
+      push '0'
+      push 'dX'
+      getVariable
+      push '7'
+      random
+      oldAdd
+      push '3'
+      subtract
+      setProperty
+      push '/bg'
+      push '1'
+      push 'dY'
+      getVariable
+      push '7'
+      random
+      oldAdd
+      setProperty
+    end // of frame 3
+
+    frame 4
+      push ''
+      push '4'
+      getProperty
+      push '1'
+      subtract
+      gotoAndPlay
+    end // of frame 4
+  end // of defineMovieClip 147
+
+  defineMovieClip 149 // total frames: 1
+  end // of defineMovieClip 149
+
+  frame 1
+  end // of frame 1
+
+  frame 4
+    stop
+    push 'key_act_flag'
+    push '0'
+    setVariable
+    push 'fce1'
+    getVariable
+    push ''
+    stringEq
+    not
+    not
+    branchIfTrue label1
+    push 'c'
+    push 'cno1'
+    getVariable
+    concat
+    push '_t/c_col/c/cf'
+    concat
+    push 'cno1'
+    getVariable
+    concat
+    push '/f'
+    concat
+    setTargetExpr
+      push 'next_face'
+      push '/:fce1'
+      getVariable
+      setVariable
+      gotoLabel 'run'
+      play
+    end
+   label1:
+    push 'voice_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label2
+    push 'keyAct'
+    push 'voice_path1'
+    getVariable
+    push 'voiceControl'
+    push 'JavaScript'
+    push '4'
+    FSCommand2
+    pop
+    push 'voice_count'
+    push 'voice_count'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+   label2:
+    push 'allskip_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label3
+    push 'url'
+    getVariable
+    push 'skipBtnGenerate'
+    push 'JavaScript'
+    push '3'
+    FSCommand2
+    pop
+   label3:
+  end // of frame 4
+
+  defineMovieClip 151 // total frames: 1
+  end // of defineMovieClip 151
+
+  defineMovieClip 152 // total frames: 25
+
+    frame 24
+      gotoLabel 'lp'
+      play
+    end // of frame 24
+  end // of defineMovieClip 152
+
+  defineButton 154
+
+    on overDownToOverUp,keyPress _ENTER
+      push 'keyAct'
+      callFrame
+    end
+
+    on keyPress '5'
+      push 'keyAct'
+      callFrame
+    end
+  end // of defineButton 154
+
+  defineButton 155
+
+    on overDownToOverUp,keyPress _ENTER
+      push 'allskip_flag'
+      getVariable
+      push '1'
+      stringEq
+      not
+      branchIfTrue label1
+      push 'jump'
+      callFrame
+     label1:
+    end
+
+    on keyPress '0'
+      push 'allskip_flag'
+      getVariable
+      push '1'
+      stringEq
+      not
+      branchIfTrue label1
+      push 'jump'
+      callFrame
+     label1:
+    end
+  end // of defineButton 155
+
+  frame 8
+    push 'cpt'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label1
+    setTarget 'place_set'
+      gotoLabel 'place_play'
+      play
+    end
+    push 'voice_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label1
+    push 'window'
+    push '1'
+    push 'btStart'
+    push 'JavaScript'
+    push '4'
+    FSCommand2
+    pop
+   label1:
+    push 'key_act_flag'
+    push '1'
+    setVariable
+    push '_c'
+    push 'cno'
+    push 'cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '0'
+    push '_c'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label7
+    push '_pos'
+    push 'pos'
+    push 'cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '_posX'
+    push '_pos'
+    getVariable
+    push 'X'
+    concat
+    getVariable
+    setVariable
+    push '_mov'
+    push 'mov'
+    push 'cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push 'c'
+    push '_c'
+    getVariable
+    concat
+    push '_t'
+    concat
+    setTargetExpr
+      push ''
+      push '7'
+      push '1'
+      setProperty
+      push '/:_mov'
+      getVariable
+      push ''
+      stringEq
+      not
+      not
+      branchIfTrue label2
+      push '/:_mov'
+      getVariable
+      gotoAndPlay
+     label2:
+      push '/:_posX'
+      getVariable
+      push ''
+      stringEq
+      not
+      not
+      branchIfTrue label3
+      push ''
+      push '0'
+      push '/:'
+      push '/:_pos'
+      getVariable
+      concat
+      push 'X'
+      concat
+      getVariable
+      setProperty
+     label3:
+    end
+    push '_mov'
+    getVariable
+    push '1'
+    push '3'
+    substring
+    push 'out'
+    stringEq
+    not
+    branchIfTrue label4
+    push '_pos'
+    getVariable
+    push '_front'
+    concat
+    push '0'
+    setVariable
+    branch label5
+   label4:
+    push '_pos'
+    getVariable
+    push '_front'
+    concat
+    push '_c'
+    getVariable
+    setVariable
+   label5:
+    push 'c'
+    push '_c'
+    getVariable
+    concat
+    push '7'
+    push '0'
+    setProperty
+    push '_pos'
+    getVariable
+    push '_back'
+    concat
+    push '0'
+    setVariable
+    push 'fce'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    push ''
+    stringEq
+    not
+    not
+    branchIfTrue label6
+    push 'c'
+    push '_c'
+    getVariable
+    concat
+    push '_t/c_col/c/cf'
+    concat
+    push '_c'
+    getVariable
+    concat
+    push '/f'
+    concat
+    setTargetExpr
+      push 'next_face'
+      push '/:fce'
+      push '/:cpt'
+      getVariable
+      concat
+      getVariable
+      setVariable
+      gotoLabel 'run'
+      play
+    end
+    push 'c'
+    push '_c'
+    getVariable
+    concat
+    push '/c_col/c/cf'
+    concat
+    push '_c'
+    getVariable
+    concat
+    push '/f'
+    concat
+    setTargetExpr
+      push 'next_face'
+      push '/:fce'
+      push '/:cpt'
+      getVariable
+      concat
+      getVariable
+      setVariable
+      gotoLabel 'run'
+      play
+    end
+   label6:
+    push 'boot_effect'
+    callFrame
+    branch label11
+   label7:
+    push '_c'
+    getVariable
+    push '0'
+    stringEq
+    not
+    branchIfTrue label11
+    push '_mov'
+    push 'mov'
+    push 'cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '_mov'
+    getVariable
+    push 'all_out_fade'
+    stringEq
+    not
+    branchIfTrue label11
+    push 'i'
+    push '1'
+    setVariable
+   label8:
+    push 'position_len'
+    getVariable
+    push 'i'
+    getVariable
+    oldLessThan
+    not
+    not
+    branchIfTrue label11
+    push '_position'
+    push 'position'
+    push 'i'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '_num_front'
+    push '_position'
+    getVariable
+    push '_front'
+    concat
+    getVariable
+    setVariable
+    push '_num_back'
+    push '_position'
+    getVariable
+    push '_back'
+    concat
+    getVariable
+    setVariable
+    push '0'
+    push '_num_front'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label9
+    push 'c'
+    push '_num_front'
+    getVariable
+    concat
+    push '_t'
+    concat
+    push '7'
+    push '0'
+    setProperty
+    push 'c'
+    push '_num_front'
+    getVariable
+    concat
+    setTargetExpr
+      push ''
+      push '7'
+      push '1'
+      setProperty
+      gotoLabel 'out_fade'
+      play
+      push ''
+      push '0'
+      push '/:'
+      push '/:_position'
+      getVariable
+      concat
+      push 'X'
+      concat
+      getVariable
+      setProperty
+    end
+    push '_position'
+    getVariable
+    push '_back'
+    concat
+    push '0'
+    setVariable
+    push '_position'
+    getVariable
+    push '_front'
+    concat
+    push '0'
+    setVariable
+    branch label10
+   label9:
+    push '0'
+    push '_num_back'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label10
+    push 'c'
+    push '_num_back'
+    getVariable
+    concat
+    setTargetExpr
+      push ''
+      push '7'
+      push '1'
+      setProperty
+      gotoLabel 'out_fade'
+      play
+      push ''
+      push '0'
+      push '/:'
+      push '/:_position'
+      getVariable
+      concat
+      push 'X'
+      concat
+      getVariable
+      setProperty
+    end
+    push '_position'
+    getVariable
+    push '_back'
+    concat
+    push '0'
+    setVariable
+   label10:
+    push 'i'
+    push 'i'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+    branch label8
+   label11:
+    push '_fade'
+    push 'fade'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '/:$X3'
+    push '_fade'
+    getVariable
+    setVariable
+    push '/:$X3'
+    getVariable
+    push 'out'
+    stringEq
+    branchIfTrue label12
+    push '/:$X3'
+    getVariable
+    push 'white_out'
+    stringEq
+    branchIfTrue label12
+    push '/:$X3'
+    getVariable
+    push 'flash_short'
+    stringEq
+    branchIfTrue label12
+    push '/:$X3'
+    getVariable
+    push 'flash_long'
+    stringEq
+    branchIfTrue label12
+    push '/:$X3'
+    getVariable
+    push 'in'
+    stringEq
+    branchIfTrue label13
+    push '/:$X3'
+    getVariable
+    push 'white_in'
+    stringEq
+    branchIfTrue label13
+    push '/:$X3'
+    getVariable
+    push 'in_out'
+    stringEq
+    branchIfTrue label13
+    branch label15
+   label12:
+    push 'fx_fade/:'
+    push '_fade'
+    getVariable
+    concat
+    gotoAndPlay
+    branch label16
+   label13:
+    push '/:cpt'
+    getVariable
+    push '1'
+    oldEquals
+    not
+    not
+    branchIfTrue label14
+    push 'fx_fade/:'
+    push '_fade'
+    getVariable
+    concat
+    gotoAndPlay
+   label14:
+    branch label16
+   label15:
+    branch label16
+   label16:
+    push '_bg'
+    push 'bgimg'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '/:$X3'
+    push '_bg'
+    getVariable
+    setVariable
+    push '/:$X3'
+    getVariable
+    push 'off'
+    stringEq
+    branchIfTrue label17
+    push '/:$X3'
+    getVariable
+    push 'on'
+    stringEq
+    branchIfTrue label17
+    push '/:$X3'
+    getVariable
+    push 'change'
+    stringEq
+    branchIfTrue label18
+    push '/:$X3'
+    getVariable
+    push 'light_short'
+    stringEq
+    branchIfTrue label18
+    push '/:$X3'
+    getVariable
+    push 'light_long'
+    stringEq
+    branchIfTrue label18
+    push '/:$X3'
+    getVariable
+    push 'change_moment'
+    stringEq
+    branchIfTrue label19
+    push '/:$X3'
+    getVariable
+    push 'change1'
+    stringEq
+    branchIfTrue label22
+    push '/:$X3'
+    getVariable
+    push 'change2'
+    stringEq
+    branchIfTrue label22
+    push '/:$X3'
+    getVariable
+    push 'change3'
+    stringEq
+    branchIfTrue label22
+    push '/:$X3'
+    getVariable
+    push 'change4'
+    stringEq
+    branchIfTrue label22
+    push '/:$X3'
+    getVariable
+    push 'quake_on'
+    stringEq
+    branchIfTrue label23
+    push '/:$X3'
+    getVariable
+    push 'quake_off'
+    stringEq
+    branchIfTrue label24
+    push '/:$X3'
+    getVariable
+    push 'C'
+    stringEq
+    branchIfTrue label25
+    push '/:$X3'
+    getVariable
+    push 'R'
+    stringEq
+    branchIfTrue label25
+    push '/:$X3'
+    getVariable
+    push 'L'
+    stringEq
+    branchIfTrue label25
+    push '/:$X3'
+    getVariable
+    push 'CtoR'
+    stringEq
+    branchIfTrue label26
+    push '/:$X3'
+    getVariable
+    push 'CtoL'
+    stringEq
+    branchIfTrue label26
+    push '/:$X3'
+    getVariable
+    push 'RtoC'
+    stringEq
+    branchIfTrue label26
+    push '/:$X3'
+    getVariable
+    push 'LtoC'
+    stringEq
+    branchIfTrue label26
+    branch label27
+   label17:
+    setTarget 'bg'
+      push 'turn_'
+      push '/:_bg'
+      getVariable
+      concat
+      gotoAndPlay
+    end
+    branch label28
+   label18:
+    setTarget 'bg'
+      push '/:_bg'
+      getVariable
+      gotoAndPlay
+    end
+    branch label28
+   label19:
+    push '/:bg_condition'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label20
+    push '/:bg_condition'
+    push '2'
+    setVariable
+    branch label21
+   label20:
+    push '/:bg_condition'
+    push '1'
+    setVariable
+   label21:
+    push 'bg/bg_sidemotion/bg_/:'
+    push '/:bg_condition'
+    getVariable
+    concat
+    gotoAndStop
+    push 'bg/bg_sidemotion/:C'
+    gotoAndStop
+    branch label28
+   label22:
+    push 'temp_change_id'
+    push '_bg'
+    getVariable
+    push '7'
+    push '1'
+    substring
+    setVariable
+    push 'bg/bg_sidemotion/bg_/:'
+    push 'temp_change_id'
+    getVariable
+    concat
+    gotoAndStop
+    push 'bg/bg_sidemotion/:C'
+    gotoAndStop
+    branch label28
+   label23:
+    setTarget 'fx_quake_ctr'
+      gotoLabel 'on'
+      play
+    end
+    branch label28
+   label24:
+    setTarget 'fx_quake_ctr'
+      gotoLabel 'off'
+    end
+    branch label28
+   label25:
+    setTarget 'bg/bg_sidemotion'
+      push '/:_bg'
+      getVariable
+      gotoAndStop
+    end
+    branch label28
+   label26:
+    setTarget 'bg/bg_sidemotion'
+      push '/:_bg'
+      getVariable
+      gotoAndPlay
+    end
+    branch label28
+   label27:
+    branch label28
+   label28:
+    push 'setMsg'
+    callFrame
+    push 'se'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    push ''
+    stringEq
+    not
+    not
+    branchIfTrue label29
+    push 'se'
+    push '/:cpt'
+    getVariable
+    concat
+    push 'playSound'
+    push 'JavaScript'
+    push '3'
+    FSCommand2
+    pop
+   label29:
+    push '_timing'
+    push 'timing'
+    push 'cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '_timing'
+    getVariable
+    push 'w'
+    stringEq
+    not
+    branchIfTrue label30
+    push 'move_wait_flag'
+    push '1'
+    setVariable
+    stop
+    branch label34
+   label30:
+    push '_timing'
+    getVariable
+    push '0'
+    stringEq
+    not
+    branchIfTrue label31
+    gotoLabel 'cptEnd'
+    branch label34
+   label31:
+    push '0'
+    push '_timing'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label32
+    setTarget 'timer'
+      push 'timer_set'
+      push '/:_timing'
+      getVariable
+      setVariable
+      gotoLabel 'run'
+      play
+    end
+    push 'timer_active_flag'
+    push '1'
+    setVariable
+    stop
+    branch label34
+   label32:
+    push '_timing'
+    getVariable
+    push ''
+    stringEq
+    not
+    branchIfTrue label34
+    push '_str'
+    push 'mov'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '_str'
+    getVariable
+    push '1'
+    push '2'
+    substring
+    push 'in'
+    stringEq
+    not
+    branchIfTrue label33
+    push 'move_wait_flag'
+    push '1'
+    setVariable
+    stop
+    branch label34
+   label33:
+    setTarget 'timer'
+      push 'timer_set'
+      push '1'
+      setVariable
+      gotoLabel 'run'
+      play
+    end
+    stop
+   label34:
+  end // of frame 8
+
+  defineButton 156
+
+    on overDownToOverUp,keyPress _ENTER
+      push 'timer_skip'
+      callFrame
+    end
+
+    on keyPress '5'
+      push 'timer_skip'
+      callFrame
+    end
+  end // of defineButton 156
+
+  frame 12
+    push '_br'
+    push 'cpt'
+    getVariable
+    concat
+    getVariable
+    push '1'
+    oldEquals
+    not
+    branchIfTrue label5
+    push 'win_open'
+    getVariable
+    push '1'
+    oldEquals
+    not
+    branchIfTrue label1
+    setTarget 'window_1'
+      push 'cur'
+      push '7'
+      push '1'
+      setProperty
+    end
+   label1:
+    push 'cpt'
+    getVariable
+    push 'cpt_end'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label3
+    stop
+    push 'key_act_flag'
+    push '0'
+    setVariable
+    push 'voice_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label2
+    push 'keyAct'
+    push 'voice_path'
+    push 'voice_count'
+    getVariable
+    concat
+    getVariable
+    push 'voiceControl'
+    push 'JavaScript'
+    push '4'
+    FSCommand2
+    pop
+    push 'voice_count'
+    push 'voice_count'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+   label2:
+    branch label4
+   label3:
+    gotoLabel 'fin'
+   label4:
+    branch label6
+   label5:
+    push 'key_act_flag'
+    push '0'
+    setVariable
+    push 'cpt'
+    push 'cpt'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+    gotoLabel 'start'
+    play
+   label6:
+    push 'check'
+    callFrame
+  end // of frame 12
+
+  defineButton 157
+
+    on overDownToOverUp,keyPress _ENTER
+      push 'key_act_flag'
+      getVariable
+      push '0'
+      stringEq
+      not
+      branchIfTrue label2
+      push 'window_flag'
+      getVariable
+      not
+      branchIfTrue label1
+      push 'key_act_flag'
+      push '1'
+      setVariable
+      push 'keyAct'
+      callFrame
+      branch label2
+     label1:
+      push 'window_flag'
+      push '1'
+      setVariable
+      push 'window_1/:in'
+      gotoAndPlay
+     label2:
+    end
+
+    on keyPress '5'
+      push 'key_act_flag'
+      getVariable
+      push '0'
+      stringEq
+      not
+      branchIfTrue label2
+      push 'window_flag'
+      getVariable
+      not
+      branchIfTrue label1
+      push 'key_act_flag'
+      push '1'
+      setVariable
+      push 'keyAct'
+      callFrame
+      branch label2
+     label1:
+      push 'window_flag'
+      push '1'
+      setVariable
+      push 'window_1/:in'
+      gotoAndPlay
+     label2:
+    end
+
+    on keyPress '9'
+      push 'keyWindow'
+      callFrame
+    end
+  end // of defineButton 157
+
+  defineButton 158
+
+    on overUpToOverDown
+      push 'keyWindow'
+      callFrame
+    end
+  end // of defineButton 158
+
+  frame 18
+    stop
+    push 'key_act_flag'
+    push '0'
+    setVariable
+    push 'fin_flag'
+    push '1'
+    setVariable
+    push 'event_type'
+    getVariable
+    push '0'
+    stringEq
+    not
+    branchIfTrue label2
+    push 'voice_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label1
+    push 'url'
+    getVariable
+    push 'backUrl'
+    push 'JavaScript'
+    push '3'
+    FSCommand2
+    pop
+   label1:
+    branch label3
+   label2:
+    push 'voice_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label3
+    push 'keyAct'
+    push 'voice_path'
+    push 'voice_count'
+    getVariable
+    concat
+    getVariable
+    push 'voiceControl'
+    push 'JavaScript'
+    push '4'
+    FSCommand2
+    pop
+    push 'voice_count'
+    push 'voice_count'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+   label3:
+  end // of frame 18
+
+  defineButton 159
+
+    on overDownToOverUp,keyPress _ENTER
+      push 'key_act_flag'
+      getVariable
+      push '0'
+      stringEq
+      not
+      branchIfTrue label2
+      push 'window_flag'
+      getVariable
+      not
+      branchIfTrue label1
+      push 'key_act_flag'
+      push '1'
+      setVariable
+      push 'keyAct'
+      callFrame
+      branch label2
+     label1:
+      push 'window_flag'
+      push '1'
+      setVariable
+      push 'window_1/:in'
+      gotoAndPlay
+     label2:
+    end
+
+    on keyPress '5'
+      push 'key_act_flag'
+      getVariable
+      push '0'
+      stringEq
+      not
+      branchIfTrue label2
+      push 'window_flag'
+      getVariable
+      not
+      branchIfTrue label1
+      push 'key_act_flag'
+      push '1'
+      setVariable
+      push 'keyAct'
+      callFrame
+      branch label2
+     label1:
+      push 'window_flag'
+      push '1'
+      setVariable
+      push 'window_1/:in'
+      gotoAndPlay
+     label2:
+    end
+
+    on keyPress '9'
+      push 'keyWindow'
+      callFrame
+    end
+  end // of defineButton 159
+
+  frame 21
+    stop
+    push 'voice_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label1
+    push 'url'
+    getVariable
+    push 'backUrl'
+    push 'JavaScript'
+    push '3'
+    FSCommand2
+    pop
+   label1:
+  end // of frame 21
+
+  defineMovieClip 160 // total frames: 1
+  end // of defineMovieClip 160
+  
+  // unknown tag 88 length 84
+
+  defineMovieClip 165 // total frames: 75
+
+    frame 51
+      gotoLabel 'loop'
+      play
+    end // of frame 51
+  end // of defineMovieClip 165
+
+  defineMovieClip 166 // total frames: 15
+
+    frame 0
+      push '/:event_type'
+      getVariable
+      push '2'
+      stringEq
+      not
+      branchIfTrue label1
+      push ''
+      push '7'
+      push '1'
+      setProperty
+      branch label2
+     label1:
+      push ''
+      push '7'
+      push '0'
+      setProperty
+     label2:
+    end // of frame 0
+
+    frame 14
+      gotoFrame 0
+      play
+    end // of frame 14
+  end // of defineMovieClip 166
+
+  defineMovieClip 168 // total frames: 1
+  end // of defineMovieClip 168
+
+  defineMovieClip 169 // total frames: 15
+
+    frame 0
+      push '/:event_type'
+      getVariable
+      push '3'
+      stringEq
+      not
+      branchIfTrue label1
+      push ''
+      push '7'
+      push '1'
+      setProperty
+      branch label2
+     label1:
+      push ''
+      push '7'
+      push '0'
+      setProperty
+     label2:
+    end // of frame 0
+
+    frame 14
+      gotoFrame 0
+      play
+    end // of frame 14
+  end // of defineMovieClip 169
+
+  defineMovieClip 170 // total frames: 8
+
+    frame 7
+      stop
+    end // of frame 7
+  end // of defineMovieClip 170
+
+  defineButton 171
+
+    on overDownToOverUp,keyPress _ENTER
+      push 'jump'
+      callFrame
+    end
+
+    on keyPress '5'
+      push 'jump'
+      callFrame
+    end
+  end // of defineButton 171
+
+  frame 22
+  end // of frame 22
+
+  defineMovieClip 172 // total frames: 1
+  end // of defineMovieClip 172
+
+  defineMovieClip 173 // total frames: 61
+
+    frame 39
+      gotoLabel 'l'
+      play
+    end // of frame 39
+
+    frame 49
+      stop
+    end // of frame 49
+  end // of defineMovieClip 173
+
+  defineMovieClip 176 // total frames: 2
+  end // of defineMovieClip 176
+
+  defineMovieClip 178 // total frames: 1
+
+    frame 0
+      push ''
+      push '7'
+      push '0'
+      setProperty
+    end // of frame 0
+  end // of defineMovieClip 178
+
+  defineMovieClip 179 // total frames: 30
+
+    frame 15
+      stop
+    end // of frame 15
+  end // of defineMovieClip 179
+
+  defineMovieClip 180 // total frames: 36
+
+    frame 0
+      push 'r'
+      push '3'
+      random
+      push '2'
+      oldAdd
+      setVariable
+      push 'r'
+      getVariable
+      gotoAndPlay
+    end // of frame 0
+
+    frame 21
+      stop
+    end // of frame 21
+  end // of defineMovieClip 180
+
+  defineMovieClip 181 // total frames: 1
+  end // of defineMovieClip 181
+
+  defineMovieClip 182 // total frames: 1
+  end // of defineMovieClip 182
+
+  defineMovieClip 184 // total frames: 1
+
+    frame 0
+      push ''
+      push VISIBLE_PROPERTY
+      push '0'
+      setProperty
+    end // of frame 0
+  end // of defineMovieClip 184
+
+  defineMovieClip 186 // total frames: 1
+
+    frame 0
+      push ''
+      push '7'
+      push '0'
+      setProperty
+    end // of frame 0
+  end // of defineMovieClip 186
+
+  defineMovieClip 188 // total frames: 1
+  end // of defineMovieClip 188
+
+  defineMovieClip 192 // total frames: 1
+  end // of defineMovieClip 192
+
+  defineMovieClip 193 // total frames: 29
+
+    frame 8
+      push ''
+      push '4'
+      getProperty
+      push '10'
+      random
+      oldAdd
+      push '1'
+      oldAdd
+      gotoAndPlay
+    end // of frame 8
+  end // of defineMovieClip 193
+
+  defineMovieClip 194 // total frames: 36
+
+    frame 35
+      stop
+    end // of frame 35
+  end // of defineMovieClip 194
+
+  defineMovieClip 196 // total frames: 56
+
+    frame 0
+      stop
+    end // of frame 0
+
+    frame 1
+      play
+    end // of frame 1
+
+    frame 55
+      push '/:key_flag'
+      push '1'
+      setVariable
+      gotoFrame 0
+      push '../pusher/:l'
+      gotoAndPlay
+    end // of frame 55
+  end // of defineMovieClip 196
+
+  defineButton 197
+
+    on overDownToOverUp,keyPress _ENTER
+      push 'jump_op'
+      callFrame
+    end
+
+    on keyPress '5'
+      push 'jump_op'
+      callFrame
+    end
+  end // of defineButton 197
+
+  defineMovieClip 198 // total frames: 31
+
+    frame 0
+      stop
+      push ''
+      push '7'
+      push '0'
+      setProperty
+    end // of frame 0
+
+    frame 1
+      push ''
+      push '7'
+      push '1'
+      setProperty
+    end // of frame 1
+
+    frame 22
+      stop
+      push 'voice_flag'
+      getVariable
+      push '1'
+      stringEq
+      not
+      branchIfTrue label1
+      push 'url'
+      getVariable
+      push 'backUrl'
+      push 'JavaScript'
+      push '3'
+      FSCommand2
+      pop
+     label1:
+    end // of frame 22
+
+    frame 23
+      push '/:key_flag'
+      getVariable
+      push '1'
+      oldEquals
+      not
+      not
+      branchIfTrue label1
+      push '/:key_flag'
+      push '1'
+      setVariable
+      push '/:url'
+      getVariable
+      push ''
+      getURL2
+      push 'pusher/:pushed'
+      gotoAndPlay
+      push 'sender:2'
+      gotoAndPlay
+     label1:
+    end // of frame 23
+  end // of defineMovieClip 198
+
+  frame 33
+    stop
+    push 'opmc/:start'
+    gotoAndPlay
+  end // of frame 33
+
+  frame 34
+    push 'LL_front'
+    push '0'
+    setVariable
+    push 'L_front'
+    push '0'
+    setVariable
+    push 'CL_front'
+    push '0'
+    setVariable
+    push 'C_front'
+    push '0'
+    setVariable
+    push 'CR_front'
+    push '0'
+    setVariable
+    push 'R_front'
+    push '0'
+    setVariable
+    push 'RR_front'
+    push '0'
+    setVariable
+    push 'LL_back'
+    push '0'
+    setVariable
+    push 'L_back'
+    push '0'
+    setVariable
+    push 'CL_back'
+    push '0'
+    setVariable
+    push 'C_back'
+    push '0'
+    setVariable
+    push 'CR_back'
+    push '0'
+    setVariable
+    push 'R_back'
+    push '0'
+    setVariable
+    push 'RR_back'
+    push '0'
+    setVariable
+  end // of frame 34
+
+  frame 44
+    push 'i'
+    push '1'
+    setVariable
+   label1:
+    push 'i'
+    getVariable
+    push 'MAXNUM'
+    getVariable
+    push '1'
+    oldAdd
+    oldLessThan
+    not
+    branchIfTrue label2
+    push 'c'
+    push 'i'
+    getVariable
+    concat
+    push '7'
+    push '0'
+    setProperty
+    push 'i'
+    push 'i'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+    branch label1
+   label2:
+    push 'i'
+    push '1'
+    setVariable
+   label3:
+    push 'position_len'
+    getVariable
+    push 'i'
+    getVariable
+    oldLessThan
+    not
+    not
+    branchIfTrue label6
+    push '_position'
+    push 'position'
+    push 'i'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '_num_front'
+    push '_position'
+    getVariable
+    push '_front'
+    concat
+    getVariable
+    setVariable
+    push '_num_back'
+    push '_position'
+    getVariable
+    push '_back'
+    concat
+    getVariable
+    setVariable
+    push '0'
+    push '_num_front'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label4
+    push 'c'
+    push '_num_front'
+    getVariable
+    concat
+    push '_t'
+    concat
+    push '7'
+    push '0'
+    setProperty
+    push '_position'
+    getVariable
+    push '_back'
+    concat
+    push '_num_front'
+    getVariable
+    setVariable
+    push '_position'
+    getVariable
+    push '_front'
+    concat
+    push '0'
+    setVariable
+    push 'c'
+    push '_num_front'
+    getVariable
+    concat
+    setTargetExpr
+      push ''
+      push '7'
+      push '1'
+      setProperty
+      gotoLabel 'stay'
+      push ''
+      push '0'
+      push '/:'
+      push '/:_position'
+      getVariable
+      concat
+      push 'X'
+      concat
+      getVariable
+      setProperty
+    end
+    branch label5
+   label4:
+    push '0'
+    push '_num_back'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label5
+    push 'c'
+    push '_num_back'
+    getVariable
+    concat
+    push '7'
+    push '1'
+    setProperty
+   label5:
+    push 'i'
+    push 'i'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+    branch label3
+   label6:
+  end // of frame 44
+
+  frame 54
+    push '_chara_effect'
+    push 'chara_effect'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '0'
+    push '_chara_effect'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label5
+    push '_ef_pos'
+    push '/:pos'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    setTarget 'charaEffect_set'
+      push 'effect'
+      push '/:_chara_effect'
+      getVariable
+      concat
+      push '_effect'
+      push '/:cpt'
+      getVariable
+      concat
+      push '16384'
+      push '/:cpt'
+      getVariable
+      oldAdd
+      duplicateClip
+      push '/:_ef_pos'
+      getVariable
+      push ''
+      stringEq
+      not
+      not
+      branchIfTrue label1
+      push '_effect'
+      push '/:cpt'
+      getVariable
+      concat
+      push '0'
+      push '/:'
+      push '/:_ef_pos'
+      getVariable
+      concat
+      push 'X'
+      concat
+      getVariable
+      push '/:ch'
+      push '_c'
+      getVariable
+      concat
+      push '_efposition_x'
+      concat
+      getVariable
+      oldAdd
+      setProperty
+      branch label2
+     label1:
+      push '_effect'
+      push '/:cpt'
+      getVariable
+      concat
+      push '0'
+      push '/:CX'
+      getVariable
+      setProperty
+     label2:
+      push '_effect'
+      push '/:cpt'
+      getVariable
+      concat
+      push '1'
+      push '/:ch'
+      push '/:_c'
+      getVariable
+      concat
+      push '_efposition_y'
+      concat
+      getVariable
+      int
+      setProperty
+      push '/:effect_dir'
+      push '/:cpt'
+      getVariable
+      concat
+      getVariable
+      push 'R'
+      stringEq
+      not
+      branchIfTrue label3
+      push '_effect'
+      push '/:cpt'
+      getVariable
+      concat
+      push '/:R'
+      concat
+      gotoAndStop
+      branch label4
+     label3:
+      push '_effect'
+      push '/:cpt'
+      getVariable
+      concat
+      push '/:L'
+      concat
+      gotoAndStop
+     label4:
+    end
+   label5:
+  end // of frame 54
+
+  frame 63
+  end // of frame 63
+
+  frame 67
+    push 'move_wait_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label1
+    push 'move_wait_flag'
+    push '0'
+    setVariable
+    gotoLabel 'cptEnd'
+   label1:
+  end // of frame 67
+
+  frame 75
+    push 'msg'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    push ''
+    stringEq
+    not
+    branchIfTrue label2
+    push 'tmsg'
+    push ''
+    setVariable
+    push 'tname'
+    push ''
+    setVariable
+    push 'win_open'
+    getVariable
+    push '1'
+    oldEquals
+    not
+    branchIfTrue label1
+    push 'win_open'
+    push '0'
+    setVariable
+    setTarget 'window_1'
+      gotoLabel 'close'
+      play
+    end
+   label1:
+    branch label6
+   label2:
+    push '_cname'
+    push 'cname'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+    push '_cname'
+    getVariable
+    push ''
+    stringEq
+    not
+    not
+    branchIfTrue label3
+    push 'tname'
+    push '_cname'
+    getVariable
+    setVariable
+    branch label4
+   label3:
+    push 'tname'
+    push 'name'
+    push 'cno'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    concat
+    getVariable
+    setVariable
+   label4:
+    push 'win_open'
+    getVariable
+    push '1'
+    oldEquals
+    not
+    not
+    branchIfTrue label5
+    push 'win_open'
+    push '1'
+    setVariable
+    setTarget 'window_1'
+      gotoLabel 'f1'
+      play
+    end
+   label5:
+    push 'window_1/cur'
+    push '7'
+    push '0'
+    setProperty
+    push 'tmsg'
+    push 'msg'
+    push '/:cpt'
+    getVariable
+    concat
+    getVariable
+    setVariable
+   label6:
+  end // of frame 75
+
+  frame 82
+    push 'fin_flag'
+    getVariable
+    push '0'
+    stringEq
+    not
+    branchIfTrue label3
+    push 'cpt'
+    getVariable
+    push 'cpt_end'
+    getVariable
+    oldLessThan
+    not
+    branchIfTrue label1
+    push 'cpt'
+    push 'cpt'
+    getVariable
+    push '1'
+    oldAdd
+    setVariable
+    push 'chara_control'
+    callFrame
+    gotoLabel 'start'
+    play
+    branch label2
+   label1:
+    push 'fin_flag'
+    push '1'
+    setVariable
+    gotoLabel 'fin'
+   label2:
+    branch label7
+   label3:
+    push 'fin_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label7
+    push 'fin_flag'
+    push '2'
+    setVariable
+    push 'event_type'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label4
+    gotoLabel 'op'
+    play
+    branch label7
+   label4:
+    push 'event_type'
+    getVariable
+    push '2'
+    stringEq
+    push 'event_type'
+    getVariable
+    push '2'
+    stringEq
+    branchIfTrue label5
+    pop
+    push 'event_type'
+    getVariable
+    push '3'
+    stringEq
+   label5:
+    not
+    branchIfTrue label6
+    gotoLabel 'ed'
+    branch label7
+   label6:
+    push 'jump'
+    callFrame
+   label7:
+  end // of frame 82
+
+  frame 88
+    push 'window_flag'
+    getVariable
+    not
+    branchIfTrue label1
+    push 'window_flag'
+    push '0'
+    setVariable
+    push 'window_1/:out'
+    gotoAndPlay
+    branch label2
+   label1:
+    push 'window_flag'
+    push '1'
+    setVariable
+    push 'window_1/:in'
+    gotoAndPlay
+   label2:
+  end // of frame 88
+
+  frame 96
+    push '/:timer_active_flag'
+    getVariable
+    push '1'
+    stringEq
+    not
+    branchIfTrue label1
+    push 'timer/:timer_stop'
+    callFrame
+   label1:
+  end // of frame 96
+
+  frame 105
+    push 'key_flag'
+    getVariable
+    push '1'
+    oldEquals
+    not
+    push 'key_flag'
+    getVariable
+    push '1'
+    oldEquals
+    not
+    not
+    branchIfTrue label1
+    pop
+    push 'voice_flag'
+    getVariable
+    push '1'
+    oldEquals
+    not
+   label1:
+    not
+    branchIfTrue label2
+    push 'key_flag'
+    push '1'
+    setVariable
+    push '/:url'
+    getVariable
+    push ''
+    getURL2
+   label2:
+  end // of frame 105
+end
